@@ -21,10 +21,10 @@ This application will allow users to compare presidential candidates based on ea
 <ul> 
   <li> Python </li>
   <li> Flask</li>
-  <li>MySQL </li>
+  <li> MySQL </li>
   <li> SQLAlchemy</li>
-  <li>Jinja2 Templates </li>
-  <li>avaScript </li>J 
+  <li> Jinja2 Templates </li>
+  <li> JavaScript </li> 
 </ul>
 
 ### What I'll Have to Learn
