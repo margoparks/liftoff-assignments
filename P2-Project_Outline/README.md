@@ -18,12 +18,14 @@ This application will allow users to compare presidential candidates based on ea
 </ul>
 
 ### Technologies
-Python
-Flask
-MySQL
-SQLAlchemy
-Jinja2 Templates
-JavaScript
+<ul> 
+  <li> Python </li>
+  <li> Flask</li>
+  <li>MySQL </li>
+  <li> SQLAlchemy</li>
+  <li>Jinja2 Templates </li>
+  <li>avaScript </li>J 
+</ul>
 
 ### What I'll Have to Learn
 I will have to learn Javascript and become more acquainted with front-end design to make the user experience as appealing as possible. I will also have to learn to use social media APIs to allow users to share their research on their social media profiles.
